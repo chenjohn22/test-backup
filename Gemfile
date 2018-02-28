@@ -10,4 +10,5 @@ group :no_ci do
 
   gem "redcarpet"
   gem "yard"
+  gem 'azure'
 end
